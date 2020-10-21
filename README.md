@@ -4,13 +4,13 @@ I am [Abul Khoyer](https://abulkhoyer.com), A full-stack web developer from Bang
 
 #### Skill
 
-|  Language  | Library/Framework | Preprocessor |    CMS    |   Database  | Deployment |
-| :--------: | :---------------: | :----------: |   :---:   |  :--------: | :--------: |
-| JavaScript |      ReactJS      |     SASS     | Wordpress |  MongoDB    |   Github   |
-|    PHP  	 |  MaterializeCSS   |     LESS     |  Gatsby   |  PostgreSQL | HerokuApp  |
-|    HTML    |     Bootstrap     |              |           |  MySQL      |            |
-|    CSS     |     BulmaCSS      |              |           |             |            |
-|            |                   |              |           |             |            |
+|  Language  | Library/Framework | Preprocessor |    CMS    |   Database  | Deployment |  Tools        |
+| :--------: | :---------------: | :----------: |   :---:   |  :--------: | :--------: | :----:        |
+| JavaScript |      ReactJS      |     SASS     | Wordpress |  MongoDB    |   Github   | Grunt         |
+|    PHP	   |  MaterializeCSS   |     LESS     |  Gatsby   |  PostgreSQL | HerokuApp  | Gulp          |
+|    HTML    |     Bootstrap     |              |           |  MySQL      |            | Webpack       |
+|    CSS     |     BulmaCSS      |              |           |             |            | Photoshop     |
+|            |                   |              |           |             |            | Illustrator   |
 
 #### Profile Summary
 
